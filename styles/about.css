@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/pelican-cafe.jpg) ;
+    background-size: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    color: rgb(pink, green, rgb(0, 255, 255));
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
